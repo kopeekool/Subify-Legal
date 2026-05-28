@@ -4,6 +4,7 @@ Official legal documents for **Subify — Ultimate Edition** Discord Bot.
 
 > The #1 YouTube Subscriber Verification Discord Bot
 > Developed by **kopeekool** | KopeeKool Studio
+> Invite Bot : [Click Here to Invite](https://discord.com/oauth2/authorize?client_id=1480617634088091739)
 
 ---
 
